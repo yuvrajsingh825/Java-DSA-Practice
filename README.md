@@ -6,21 +6,7 @@ This repository is part of my commitment to practicing Java and mastering Data S
 
 ---
 
-## 📅 Day 1: Pattern Printing in Java
 
-Practiced the following pattern problems using nested loops in Java:
-
-### 🔸 Patterns Covered:
-- Right-Angled Triangle
-- Inverted Triangle
-- Mirror Half Pyramid
-- Full Pyramid
-- Diamond Pattern
-
-📁 Folder: `Day01-PatternPrinting/`  
-🗃️ File: `patterns.java`
-
----
 
 ## 🛠️ Concepts Used
 
