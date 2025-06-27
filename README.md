@@ -6,16 +6,6 @@ This repository is part of my commitment to practicing Java and mastering Data S
 
 ---
 
-
-
-## 🛠️ Concepts Used
-
-- Nested Loops (for-loops)
-- System.out.print & println
-- Spaces and formatting logic
-
----
-
 ## 🧠 Goal of This Repository
 
 - Solve 100+ classic Java problems
